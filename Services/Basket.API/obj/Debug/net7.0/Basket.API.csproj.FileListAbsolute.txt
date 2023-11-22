@@ -50,3 +50,10 @@ E:\Projects\MicroserviceDemo\src\Services\Basket.API\obj\Debug\net7.0\refint\Bas
 E:\Projects\MicroserviceDemo\src\Services\Basket.API\obj\Debug\net7.0\Basket.API.pdb
 E:\Projects\MicroserviceDemo\src\Services\Basket.API\obj\Debug\net7.0\Basket.API.genruntimeconfig.cache
 E:\Projects\MicroserviceDemo\src\Services\Basket.API\obj\Debug\net7.0\ref\Basket.API.dll
+E:\Projects\MicroserviceDemo\src\Services\Basket.API\bin\Debug\net7.0\Google.Protobuf.dll
+E:\Projects\MicroserviceDemo\src\Services\Basket.API\bin\Debug\net7.0\Grpc.AspNetCore.Server.dll
+E:\Projects\MicroserviceDemo\src\Services\Basket.API\bin\Debug\net7.0\Grpc.AspNetCore.Server.ClientFactory.dll
+E:\Projects\MicroserviceDemo\src\Services\Basket.API\bin\Debug\net7.0\Grpc.Core.Api.dll
+E:\Projects\MicroserviceDemo\src\Services\Basket.API\bin\Debug\net7.0\Grpc.Net.Client.dll
+E:\Projects\MicroserviceDemo\src\Services\Basket.API\bin\Debug\net7.0\Grpc.Net.ClientFactory.dll
+E:\Projects\MicroserviceDemo\src\Services\Basket.API\bin\Debug\net7.0\Grpc.Net.Common.dll

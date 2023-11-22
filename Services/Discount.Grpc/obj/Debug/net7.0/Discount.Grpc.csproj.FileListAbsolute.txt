@@ -34,3 +34,5 @@ E:\Projects\MicroserviceDemo\src\Services\Discount.Grpc\obj\Debug\net7.0\refint\
 E:\Projects\MicroserviceDemo\src\Services\Discount.Grpc\obj\Debug\net7.0\Discount.Grpc.pdb
 E:\Projects\MicroserviceDemo\src\Services\Discount.Grpc\obj\Debug\net7.0\Discount.Grpc.genruntimeconfig.cache
 E:\Projects\MicroserviceDemo\src\Services\Discount.Grpc\obj\Debug\net7.0\ref\Discount.Grpc.dll
+E:\Projects\MicroserviceDemo\src\Services\Discount.Grpc\bin\Debug\net7.0\AutoMapper.dll
+E:\Projects\MicroserviceDemo\src\Services\Discount.Grpc\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
