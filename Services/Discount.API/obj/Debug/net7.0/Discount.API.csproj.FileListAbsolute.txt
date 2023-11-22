@@ -33,3 +33,7 @@ E:\Projects\MicroserviceDemo\src\Services\Discount.API\obj\Debug\net7.0\refint\D
 E:\Projects\MicroserviceDemo\src\Services\Discount.API\obj\Debug\net7.0\Discount.API.pdb
 E:\Projects\MicroserviceDemo\src\Services\Discount.API\obj\Debug\net7.0\Discount.API.genruntimeconfig.cache
 E:\Projects\MicroserviceDemo\src\Services\Discount.API\obj\Debug\net7.0\ref\Discount.API.dll
+E:\Projects\MicroserviceDemo\src\Services\Discount.API\bin\Debug\net7.0\CoreApiResponse.dll
+E:\Projects\MicroserviceDemo\src\Services\Discount.API\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Projects\MicroserviceDemo\src\Services\Discount.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Projects\MicroserviceDemo\src\Services\Discount.API\bin\Debug\net7.0\Newtonsoft.Json.dll
